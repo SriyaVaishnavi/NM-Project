@@ -2,6 +2,14 @@
 This is a full-stack food ordering web application built using the MERN stack (MongoDB, Express, React, Node.js). The application consists of a customer-facing app for ordering food and an admin app for managing orders, menu items, and more.
 
 # Tech Stack
+ -HTML 5
+ -CSS 3
+ -JAVA SCRIPT
+ -REACT
+ -NODE.JS
+ -EXPRESS
+ -MONGO DB
+ -BOOTSTRAP
 
 # Features
  - Allow users to browse food items.
@@ -19,9 +27,7 @@ This is a full-stack food ordering web application built using the MERN stack (M
 The Home screen displays the list of food items in a grid view, with each food item displayed as a card.The Cart screen displays the list of items in the user's cart, with the total price and checkout button displayed prominently. The Order screen displays the details of the user's order.The Admin screen displays the management interface for orders and cart, with clear and intuitive navigation and controls.
 
 
-# Usage
-  ## Live Demo 
-     https://github.com/user-attachments/assets/e42d71ac-40a2-48c2-8ab5-e49fb4eb72dd
+
 
 # Installations
  ## Prerequisites
@@ -32,8 +38,20 @@ The Home screen displays the list of food items in a grid view, with each food i
        git clone https://github.com/SriyaVaishnavi/NM-Project
 
  # Screenshots
-    
-    
+  
+  ![img1](https://github.com/SriyaVaishnavi/NM-Project/blob/master/nm.png?raw=true)
+
+  ![img2](https://github.com/SriyaVaishnavi/NM-Project/blob/master/2.png?raw=true)
+
+  ![img13](https://github.com/SriyaVaishnavi/NM-Project/blob/master/3.png?raw=true)
+
+  ![img4](https://github.com/SriyaVaishnavi/NM-Project/blob/master/4.png?raw=true)
+
+  ![img5](https://github.com/SriyaVaishnavi/NM-Project/blob/master/5.png?raw=true)
+
+  ![img6](https://github.com/SriyaVaishnavi/NM-Project/blob/master/6.png?raw=true)
+
+ 
   
  
 
